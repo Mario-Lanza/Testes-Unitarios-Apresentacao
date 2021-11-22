@@ -1,0 +1,14 @@
+C:\Users\mario.gomes\Desktop\TestesUnitários\TestesUnitários\bin\Debug\netcoreapp3.1\TestesUnitários.exe
+C:\Users\mario.gomes\Desktop\TestesUnitários\TestesUnitários\bin\Debug\netcoreapp3.1\TestesUnitários.deps.json
+C:\Users\mario.gomes\Desktop\TestesUnitários\TestesUnitários\bin\Debug\netcoreapp3.1\TestesUnitários.runtimeconfig.json
+C:\Users\mario.gomes\Desktop\TestesUnitários\TestesUnitários\bin\Debug\netcoreapp3.1\TestesUnitários.runtimeconfig.dev.json
+C:\Users\mario.gomes\Desktop\TestesUnitários\TestesUnitários\bin\Debug\netcoreapp3.1\TestesUnitários.dll
+C:\Users\mario.gomes\Desktop\TestesUnitários\TestesUnitários\bin\Debug\netcoreapp3.1\TestesUnitários.pdb
+C:\Users\mario.gomes\Desktop\TestesUnitários\TestesUnitários\obj\Debug\netcoreapp3.1\TestesUnitários.csproj.AssemblyReference.cache
+C:\Users\mario.gomes\Desktop\TestesUnitários\TestesUnitários\obj\Debug\netcoreapp3.1\TestesUnitários.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario.gomes\Desktop\TestesUnitários\TestesUnitários\obj\Debug\netcoreapp3.1\TestesUnitários.AssemblyInfoInputs.cache
+C:\Users\mario.gomes\Desktop\TestesUnitários\TestesUnitários\obj\Debug\netcoreapp3.1\TestesUnitários.AssemblyInfo.cs
+C:\Users\mario.gomes\Desktop\TestesUnitários\TestesUnitários\obj\Debug\netcoreapp3.1\TestesUnitários.csproj.CoreCompileInputs.cache
+C:\Users\mario.gomes\Desktop\TestesUnitários\TestesUnitários\obj\Debug\netcoreapp3.1\TestesUnitários.dll
+C:\Users\mario.gomes\Desktop\TestesUnitários\TestesUnitários\obj\Debug\netcoreapp3.1\TestesUnitários.pdb
+C:\Users\mario.gomes\Desktop\TestesUnitários\TestesUnitários\obj\Debug\netcoreapp3.1\TestesUnitários.genruntimeconfig.cache

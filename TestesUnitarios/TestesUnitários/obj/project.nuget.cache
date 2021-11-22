@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xnd3GMTlbKQU3eyYyqytOSoK3reb9HtWIpS/ROhxxB+2l9yxohxHdZDCoL2MswJWU2mEMOZYTUYKHnVpS5CIfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mario.gomes\\Desktop\\TestesUnitários\\TestesUnitários\\Projeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mario.gomes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512",
+    "C:\\Users\\mario.gomes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
